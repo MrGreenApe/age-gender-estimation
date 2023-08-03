@@ -104,4 +104,5 @@ ENV/
 /models/
 /checkpoints/
 /pretrained_models/
+/prod/
 .DS_Store
